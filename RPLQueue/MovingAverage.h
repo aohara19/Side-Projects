@@ -1,4 +1,4 @@
-
+//Made minor changes in order to word with the new queue class that I wrote
 
 #ifndef MOVINGAVERAGE_H
 #define MOVINGAVERAGE_H
