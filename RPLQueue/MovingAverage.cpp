@@ -1,5 +1,6 @@
 // MovingAverage.cpp
 // Author: Ian Heidenberger
+// Made minor changes in order to word with the new queue class that I wrote
 //
 // MovingAverage creates an n-deep sliding average.
 
