@@ -1,0 +1,13 @@
+For the 2021 HackSC Hackathon, my team and I built Bucket of Care.
+
+What it does
+Bucket of Care is an application that allows users to send kind, anonymous messages to each other. When users first come on the site, they will be greeted with a welcome screen that will enable them to add their name to the pool of possible recipients. From there, they’ll be able to switch between two other pages: Send a Message and Receive Messages. As the names imply, these pages allow users to send messages to recipients in the pool and access messages sent to them by their peers.
+
+How we built it
+
+    AppSmith, the base of the application, interface design and flow of the application,
+    CockroachDB, a SQL database management system, to store all of the information about our users and keep track of all their encouraging messages!
+    Cloudinary, a cloud-based image and video management service to send and receive messages which include images
+    Adobe Photoshop and Canva for the logo design and animation
+    
+Link to project: https://app.appsmith.com/applications/6030affdcf5d8f2fc9d0fa83/pages/6030affdcf5d8f2fc9d0fa85
